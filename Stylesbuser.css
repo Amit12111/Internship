@@ -309,6 +309,12 @@ ul {
     .footer-col {
         width: 100%;
     }
+    input {
+        width: 50%;
+    }
+    button {
+        width: 25%;
+    }
     .col-xx-1 {
         width: 8.33%;
     } 
